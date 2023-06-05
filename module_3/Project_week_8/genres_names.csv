@@ -1,21 +1,21 @@
 genre_id,genre
-0,Adventure
-1,Science Fiction
-2,Animation
-3,Action
-4,Romance
-5,Music
-6,Crime
-7,War
-8,Fantasy
-9,Foreign
-10,Comedy
-11,History
-12,Horror
-13,Documentary
-14,Western
-15,Mystery
-16,Family
-17,Thriller
-18,TV Movie
-19,Drama
+0,History
+1,War
+2,Comedy
+3,Romance
+4,Horror
+5,Western
+6,Family
+7,Foreign
+8,Mystery
+9,Crime
+10,Action
+11,Documentary
+12,Animation
+13,Fantasy
+14,Thriller
+15,TV Movie
+16,Drama
+17,Adventure
+18,Science Fiction
+19,Music
